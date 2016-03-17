@@ -1,0 +1,11 @@
+[31-Jan-2016 11:33:54 America/Chicago] PHP Fatal error:  Call to undefined function emty() in /home/kbrighton/public_html/305/html/process.php on line 15
+[31-Jan-2016 11:34:22 America/Chicago] PHP Fatal error:  Call to undefined function emty() in /home/kbrighton/public_html/305/html/process.php on line 15
+[31-Jan-2016 11:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/html/process.php on line 28
+[31-Jan-2016 12:21:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/kbrighton/public_html/305/html/process.php on line 42
+[31-Jan-2016 12:22:24 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/kbrighton/public_html/305/html/process.php on line 42
+[31-Jan-2016 12:22:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/kbrighton/public_html/305/html/process.php on line 42
+[31-Jan-2016 12:22:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/kbrighton/public_html/305/html/process.php on line 42
+[31-Jan-2016 12:24:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kbrighton/public_html/305/html/process.php on line 42
+[31-Jan-2016 12:25:25 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home/kbrighton/public_html/305/html/process.php on line 52
+[31-Jan-2016 12:25:52 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/kbrighton/public_html/305/html/process.php on line 52
+[31-Jan-2016 12:30:22 America/Chicago] PHP Parse error:  syntax error, unexpected '";' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/kbrighton/public_html/305/html/process.php on line 60
